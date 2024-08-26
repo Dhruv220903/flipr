@@ -31,11 +31,11 @@ const Blog = () => {
         </div>
 
         <div className="p-right" style={{margin:'5rem'}}>
-          <ul>
+          <ul style={{listStyle:'none'}}>
   <li>
     <h5>Startup</h5>
     <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate dolores vel alias itaque dicta pariatur voluptatum quia animi facere consequuntur ducimus iste odit, in possimus, vitae perspiciatis! Optio, saepe at?</h3>
-    <h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut libero quasi maxime accusantium laboriosam, cupiditate nam sint impedit, illo dignissimos facere dolore, voluptates asperiores incidunt mollitia quis id tempora temporibus.</h6>
+    <h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut libero quasi maxime accusantium laboriosam, cupiditate nam sint impedit, illo dignissimos facere dolore, voluptates asperiores incidunt mollitia quis id tempora temporibus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto consequuntur cum, expedita odio eum non at. Dignissimos eligendi reprehenderit nisi et accusamus iure reiciendis itaque </h6>
   </li>
   <li>
     <h5>Startup</h5>
